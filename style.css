@@ -1,0 +1,58 @@
+body{
+    margin-top:40px;
+    font-family: sans-serif;
+}
+
+.wrapper{
+    width: 1200px;
+    height: 600px;
+    margin: 0 auto;
+    background-color: blue;
+    background-image: url(images-coco/coco.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+
+.coco{
+    width: 550px;
+    height: 450px;
+    margin: 100px 50px 50px 600px ;
+    position: relative;
+    float: left;
+}
+
+.center{
+    text-align: center;
+}
+
+/* logo */
+.logo{
+    width: 50%;
+}
+
+h2, h3{
+    color: white;
+    font-family: abel;
+    font-weight: lighter;
+}
+
+h3{
+    font-size: 17px;
+}
+
+a{
+    background-color: orange;
+    padding: 20px 15px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    font-family: abel;
+    letter-spacing: 1px;
+    
+}
+
+.tickets{
+    margin-top: 50px;
+}
